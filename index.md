@@ -15,4 +15,4 @@ We innovate to zero.
 
 ### Contact Us ###
 
-hello@cognitionbox.io
+a.hakki@soton.ac.uk

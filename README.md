@@ -2,7 +2,7 @@ A software innovation hub which brings cutting edge research from academia toget
 
 ### Petra Language ###
 
-Petra, a new way to code Java and the first “Data-aware” programming language. Petra is a type-safe, general purpose, embedded Java 8 DSL, that makes object-oriented, parallel, distributed programming simple, safe and scalable.       
+Petra is a new programming paradigm and programming language. Petra has a Java 8 implementation, which is a type-safe, general purpose, embedded style language, that makes object-oriented, parallel, distributed programming simple, safe and scalable.
 
 https://github.com/cognitionbox/petra
 

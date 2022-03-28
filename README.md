@@ -6,6 +6,8 @@ Petra is a new programming paradigm and programming language. Petra has a Java 8
 
 https://github.com/cognitionbox/petra
 
+https://github.com/cognitionbox/petra-verification
+
 https://github.com/cognitionbox/petra-examples
 
 ### About Us ###

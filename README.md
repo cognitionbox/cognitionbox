@@ -6,8 +6,6 @@ Petra is a new programming paradigm and programming language. Petra has a Java 8
 
 https://github.com/cognitionbox/petra-java
 
-https://github.com/cognitionbox/petra-docs
-
 ### About Us ###
 
 Petra was born out of the need for highly reliable systems in financial trading. A single incorrect line of code can wreak havoc in critical systems. In order to keep ahead, competitive fields demand complex systems which can continuously adapt. Our mission is to reduce the cost of developing and testing such systems. Our approach is to develop tools which prevent common errors in programming sequential, parallel and distributed systems, and which automatically find errors which we can not eliminate upfront, so that these errors never hit production.

@@ -4,7 +4,7 @@ A software innovation hub which brings cutting edge research from academia toget
 
 Petra is a new programming paradigm and programming language. Petra has a Java 8 implementation, which is a type-safe, general purpose, embedded style language, that makes object-oriented, parallel, distributed programming simple, safe and scalable.
 
-https://github.com/cognitionbox/petra-java
+https://github.com/ah1m20/petra-java-verifier
 
 ### About Us ###
 
